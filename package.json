@@ -1,0 +1,33 @@
+{
+  "name": "blackhawk-industrial-website",
+  "version": "1.0.0",
+  "description": "Página web responsive para BlackHawk Industrial - Proyecto de desarrollo web",
+  "main": "src/index.html",
+  "scripts": {
+    "dev": "live-server src",
+    "build": "sass styles/styles.scss styles/styles.css",
+    "watch": "sass --watch styles/styles.scss:styles/styles.css",
+    "serve": "live-server src --port=3000"
+  },
+  "keywords": [
+    "responsive",
+    "html",
+    "css",
+    "sass",
+    "bem",
+    "flexbox",
+    "grid",
+    "industrial"
+  ],
+  "author": "Estudiante",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "sass": "^1.69.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "."
+  },
+  "homepage": "."
+}
