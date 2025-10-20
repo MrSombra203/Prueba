@@ -19,7 +19,7 @@
     "grid",
     "industrial"
   ],
-  "author": "Estudiante",
+  "author": "José Miguel Vásconez",
   "license": "MIT",
   "devDependencies": {
     "live-server": "^1.2.2",
