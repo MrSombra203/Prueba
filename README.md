@@ -93,9 +93,6 @@ Toda la estructura HTML utiliza la metodología BEM (Block Element Modifier):
 
 ## Notas de Desarrollo
 
-- Todas las imágenes utilizan placeholders de `via.placeholder.com`
 - Los colores siguen la paleta de BlackHawk Industrial
 - La tipografía utiliza la fuente Inter de Google Fonts
 - El código está optimizado para rendimiento y mantenibilidad
-
-

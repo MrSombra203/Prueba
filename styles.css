@@ -1,3 +1,4 @@
+/*   SASS VARIABLES COMPILED     */
 
 /* Colors */
 :root {
@@ -33,7 +34,7 @@ body {
   padding: 0 1.5rem;
 }
 
-/*  COMPONENTS            */
+/*   COMPONENTS   */
 
 /* Button Component */
 .btn {
@@ -84,7 +85,7 @@ body {
   font-size: 0.875rem;
 }
 
-/*  HEADER STYLES            */
+/*      HEADER STYLES   */
 
 .header {
   position: sticky;
@@ -207,7 +208,7 @@ body {
   background-color: #b91c1c;
 }
 
-/*  HERO SECTION            */
+/*     HERO SECTION   */
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
@@ -240,7 +241,7 @@ body {
   opacity: 0.9;
 }
 
-/*  CATEGORY SECTION            */
+/*      CATEGORY SECTION   */
 
 .category-section {
   padding: 4rem 0;
@@ -302,7 +303,7 @@ body {
   color: #374151;
 }
 
-/*  FEATURED CONTENT            */
+/*   FEATURED CONTENT   */
 
 .featured-content {
   padding: 4rem 0;
@@ -352,7 +353,7 @@ body {
   line-height: 1.6;
 }
 
-/*  TESTIMONIAL SECTION            */
+/*   TESTIMONIAL SECTION     */
 
 .testimonial {
   padding: 4rem 0;
@@ -423,7 +424,7 @@ body {
   background-color: #0066cc;
 }
 
-/*  BEST SELLERS SECTION            */
+/*    BEST SELLERS SECTION   */
 
 .best-sellers {
   padding: 4rem 0;
@@ -496,7 +497,7 @@ body {
   color: #6b7280;
 }
 
-/*  PRODUCT LISTINGS SECTION            */
+/*    PRODUCT LISTINGS SECTION   */
 
 .product-listings {
   padding: 4rem 0;
@@ -562,7 +563,7 @@ body {
   border-color: #0066cc;
 }
 
-/*  CONTACT SERVICES SECTION         */
+/*   CONTACT SERVICES SECTION */
 
 .contact-services {
   background: linear-gradient(rgba(220, 38, 38, 0.8), rgba(220, 38, 38, 0.8)), 
@@ -593,7 +594,7 @@ body {
   font-weight: 600;
 }
 
-/*  BLOG SECTION        */
+/*    BLOG SECTION    */
 
 .blog-section {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
@@ -617,7 +618,7 @@ body {
   line-height: 1.6;
 }
 
-/*  FEATURED CONTENT BOTTOM     */
+/*     FEATURED CONTENT BOTTOM   */
 
 .featured-content-bottom {
   padding: 4rem 0;
@@ -636,7 +637,7 @@ body {
   gap: 2rem;
 }
 
-/*    FOOTER   */
+/*      FOOTER            */
 
 .footer {
   background-color: #374151;
@@ -713,7 +714,7 @@ body {
   color: #4a90e2;
 }
 
-/*  RESPONSIVE DESIGN - MEDIA QUERIES    */
+/*    RESPONSIVE DESIGN - MEDIA QUERIES       */
 
 /* Tablet styles */
 @media (max-width: 1024px) {
@@ -865,5 +866,3 @@ body {
     font-size: 1.5rem;
   }
 }
-
-
