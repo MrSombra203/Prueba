@@ -29,5 +29,5 @@
     "type": "git",
     "url": "https://github.com/MrSombra203/Prueba.git"
   },
-  "homepage": "file:///C:/Prueba/src/index.html"
+  "homepage": "http://localhost:8080"
 }
