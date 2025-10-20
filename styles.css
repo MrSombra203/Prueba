@@ -212,7 +212,7 @@ body {
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-              url('https://via.placeholder.com/1920x600/1e3a8a/ffffff?text=Industrial+Background');
+              url('Imagenes/Imagen fabrica.png');
   background-size: cover;
   background-position: center;
   min-height: 500px;
@@ -567,7 +567,7 @@ body {
 
 .contact-services {
   background: linear-gradient(rgba(220, 38, 38, 0.8), rgba(220, 38, 38, 0.8)), 
-              url('https://via.placeholder.com/1920x300/cccccc/666666?text=Contact+Background');
+              url('Imagenes/Imagen Trabajador en bodegas.png');
   background-size: cover;
   background-position: center;
   padding: 4rem 0;
@@ -598,7 +598,7 @@ body {
 
 .blog-section {
   background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
-              url('https://via.placeholder.com/1920x400/cccccc/666666?text=Blog+Background');
+              url('Imagenes/Imagen Trabajador en porto.png');
   background-size: cover;
   background-position: center;
   padding: 4rem 0;
@@ -866,3 +866,4 @@ body {
     font-size: 1.5rem;
   }
 }
+

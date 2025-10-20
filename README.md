@@ -93,6 +93,20 @@ Toda la estructura HTML utiliza la metodología BEM (Block Element Modifier):
 
 ## Notas de Desarrollo
 
+- Todas las imágenes utilizan archivos reales de la carpeta "Imagenes"
 - Los colores siguen la paleta de BlackHawk Industrial
 - La tipografía utiliza la fuente Inter de Google Fonts
 - El código está optimizado para rendimiento y mantenibilidad
+
+## Imágenes Utilizadas
+
+- **Imagen fabrica.png**: Fondo del hero section y contenido destacado
+- **Imagen heramientas.png**: Categorías de herramientas y productos
+- **Imagen masquin.png**: Maquinaria industrial y productos
+- **Imagen puntas de destornillador.png**: Herramientas de precisión
+- **Imagen Ciinta portectora.png**: Equipos de seguridad
+- **Imagen Bodegas.png**: Operaciones de bodega y logística
+- **Imagen Trabajador en bodegas.png**: Fondo de contacto y operaciones
+- **Imagen Trabajador en porto.png**: Fondo del blog y operaciones portuarias
+- **Imagen Tranadador.png**: Contenido destacado de profesionales
+
