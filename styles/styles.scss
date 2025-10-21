@@ -631,9 +631,6 @@ body {
   background-position: center;
   padding: $spacing-3xl 0;
   
-  &__overlay {
-    // Overlay is handled by background gradient
-  }
   
   &__grid {
     @include responsive-grid(3, $spacing-xl);
